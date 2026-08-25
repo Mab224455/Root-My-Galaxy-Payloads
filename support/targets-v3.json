@@ -162,6 +162,7 @@
       "displayName": "Galaxy A56 5G | Kernel 6.6.50 (A566BXXU1AYB7)",
       "models": ["SM-A566B"],
       "kernelVersions": ["6.6.50"],
+      "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/Mab224455/Root-My-Galaxy-Payloads/main/artifacts/a56-A566BXXU1AYB7/cve-2026-43499-app.so",
         "size": 104128
